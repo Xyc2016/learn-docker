@@ -1,0 +1,5 @@
+--index-url https://pypi.douban.com/simple
+
+fastapi
+redis
+uvicorn
